@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='ASCII'?>
+<TestCase>
+    <UseCase>YUN_UNIT</UseCase>
+    <Description>Camera test case</Description>
+    <b2bIteration>1</b2bIteration>
+    <b2bContinuousMode>True</b2bContinuousMode>
+    <TcMaxAttempt>1</TcMaxAttempt>
+    <Parameters>
+        <Parameter>
+            <Name>SCRIPT_PATH</Name>
+            <Value>scripts/Camera_photo_video_resolution_should_be 720P_with_H.264_version_1.py</Value>
+        </Parameter>
+    </Parameters>
+</TestCase>

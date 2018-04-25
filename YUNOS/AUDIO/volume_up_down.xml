@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='ASCII'?>
+<TestCase>
+    <UseCase>YUN_UNIT</UseCase>
+    <Description>Audio test case</Description>
+    <b2bIteration>1</b2bIteration>
+    <b2bContinuousMode>True</b2bContinuousMode>
+    <TcMaxAttempt>1</TcMaxAttempt>
+    <Parameters>
+        <Parameter>
+            <Name>SCRIPT_PATH</Name>
+            <Value>scripts/volume_up_down_version1.py</Value>
+        </Parameter>
+    </Parameters>
+</TestCase>
+
